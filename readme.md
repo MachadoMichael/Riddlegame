@@ -1,21 +1,19 @@
 # RIDDLE GAME
 
-## Descrição do projeto
+## **_Descrição do projeto_**
+<br>
+App desenvolvido desenvolvido com React Native. De forma simplória, o app é um jogo de charadas. Feito com intuito de práticar o uso de navigation.
 
-```
-App desenvolvido desenvolvido com React Native (android studio).De forma simplória, o app é um jogo de charadas.
-Feito com intuito de práticar o uso de navigation.
-
-Ao inciar temos uma homepage onde veremos um botão "STARTGAME".Ao clicar somos redirecionados a tela de dicas,
+Ao inciar temos uma homepage onde veremos um botão **_"STARTGAME"_**.Ao clicar somos redirecionados a tela de dicas,
 após a tela de dicas incia-se o jogo.
 
-O jogo é simples, temos uma charada e um input de texto onde você deve por a resposta, ao clicar em "CHECK" terá uma verificação entre o que foi digitado no input e resposta correta.  Caso a resposta esteja errada será direcionado a tela "FAIL" e caso esteja correta a tela será "CONGRATS".
+O jogo é simples, temos uma charada e um input de texto onde você deve por a resposta, ao clicar em **_"CHECK"_** terá uma verificação entre o que foi digitado no input e resposta correta.  Caso a resposta esteja errada será direcionado a tela **_"FAIL"_** e caso esteja correta a tela será **_"CONGRATS"_**.
 
-```
+
 
 #
 
-## Recursos
+## **_Recursos_**
 
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://docs.expo.dev)
@@ -24,7 +22,7 @@ O jogo é simples, temos uma charada e um input de texto onde você deve por a r
 
 #
 
-#### _Ao final do documento deixarei as respostas dos desafios propostos._
+>#### _Ao final do documento deixarei as respostas dos desafios propostos._
 
 <br>
 
