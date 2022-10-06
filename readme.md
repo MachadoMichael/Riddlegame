@@ -1,7 +1,6 @@
 # RIDDLE GAME
 
 ## **_Descrição do projeto_**
-<br>
 App desenvolvido desenvolvido com React Native. De forma simplória, o app é um jogo de charadas. Feito com intuito de práticar o uso de navigation.
 
 Ao inciar temos uma homepage onde veremos um botão **_"STARTGAME"_**.Ao clicar somos redirecionados a tela de dicas,
@@ -10,6 +9,8 @@ após a tela de dicas incia-se o jogo.
 O jogo é simples, temos uma charada e um input de texto onde você deve por a resposta, ao clicar em **_"CHECK"_** terá uma verificação entre o que foi digitado no input e resposta correta.  Caso a resposta esteja errada será direcionado a tela **_"FAIL"_** e caso esteja correta a tela será **_"CONGRATS"_**.
 
 
+
+<br>
 
 #
 
