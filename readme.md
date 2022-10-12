@@ -19,7 +19,7 @@ O jogo é simples, temos uma charada e um input de texto onde você deve por a r
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://docs.expo.dev)
 - [Navigation](https://reactnavigation.org/docs/getting-started/)
-- [Android Studio](https://developer.android.com)
+- [Android Studio (Device: Nexus 5X API 33)](https://developer.android.com)
 
 #
 
